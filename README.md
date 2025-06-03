@@ -1,4 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m teb0ho
+
+**Software Engineer** passionate about crafting scalable and impactful solutions.
+
+## 🛠️ Languages & Technologies
+- **JavaScript** / **TypeScript**
+- **Dart**
+- **C#**
+- **Python**
+
+## 🚀 Featured Project
+
+### [Tally – Group Savings App](https://tally-mu.vercel.app)
+A powerful and user-friendly platform that helps groups manage and track their savings together. Designed for transparency, accountability, and ease of use.
+
+## 📈 What I Do
+I build, optimize, and maintain robust applications across multiple languages and frameworks. I thrive on solving complex problems, learning new technologies, and delivering high-quality code.
+
+---
+
+Thanks for visiting my profile!
 
 <!--
 **teb0ho/teb0ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
