@@ -8,11 +8,6 @@
 - **C#**
 - **Python**
 
-## 🚀 Featured Project
-
-### [Tally – Group Savings App](https://tally-mu.vercel.app)
-A powerful and user-friendly platform that helps groups manage and track their savings together. Designed for transparency, accountability, and ease of use.
-
 ## 📈 What I Do
 I build, optimize, and maintain robust applications across multiple languages and frameworks. I thrive on solving complex problems, learning new technologies, and delivering high-quality code.
 
